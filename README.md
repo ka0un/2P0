@@ -1,7 +1,10 @@
 # 2P0
 2P0 - Windows Saved Wifi Password Extraction Tool
 
-Copyright
+---------------------------------------
+mailsend Copyright
+---------------------------------------
+
 Copyright (C) 2001-2019  Muhammad Muquit (http://www.muquit.com/)
 
  o Redistributions of source code must retain the above copyright notice,
